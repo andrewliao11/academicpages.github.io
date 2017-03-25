@@ -2,9 +2,9 @@
 title: "Leveraging Video Descriptions to Learn Video Question Answering"
 collection: publications
 permalink: /publications/VideoQA
-venue: "AAAI17"
+venue: "AAAI"
 excerpt: 'Using "only" the descriptions of the video to train a video question answering system.'
-date: 2009-10-01
+date: 2017
 paperurl: http://andrewliao11.github.io/files/videoQA.pdf
 citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
 ---
@@ -19,6 +19,7 @@ to handle non-perfect candidate QA pairs, we propose a self-paced learning proce
 mitigate their effects in training. Finally, we evaluate performance on manually generated video-based QA pairs. The
 results show that our self-paced learning procedure is effective, and the extended SS model outperforms various
 baselines.
+
 
 <!--
 ## Introduction
