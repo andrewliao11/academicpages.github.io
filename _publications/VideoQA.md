@@ -5,7 +5,7 @@ permalink: /publications/VideoQA
 venue: "AAAI17"
 excerpt: 'Using "only" the descriptions of the video to train a video question answering system.'
 date: 2009-10-01
-paperurl: http://academicpages.github.io/files/videoQA.pdf
+paperurl: http://andrewliao11.github.io/files/videoQA.pdf
 citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
 ---
 
